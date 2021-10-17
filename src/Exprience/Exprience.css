@@ -1,0 +1,11 @@
+#exprience{
+
+    background-color: rgb(120, 153, 153);
+    border: solid black 5px;
+    height: 180px;
+    width: 1200px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+};
